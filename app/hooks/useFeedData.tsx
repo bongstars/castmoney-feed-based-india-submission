@@ -39,7 +39,7 @@ const useFeedData = ({
       followingFid,
       minAmount,
       tokenAddress,
-      chainId,
+      chainId: 8453,
       isLiked: isLiked ? "true" : "false",
     },
     enabled: authenticated,
